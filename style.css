@@ -1,0 +1,23 @@
+body {
+  margin: 0;
+  width: 100%;
+}
+
+.centered-flex {
+  display: flex;
+  justify-content: center;
+}
+
+.centered-text {
+  text-align: center;
+}
+
+.limited-to-screen-width {
+  max-width: 100vw;
+}
+
+.scaling-image {
+  width: 100%;
+  height: auto;
+  max-width: 1024px;
+}
